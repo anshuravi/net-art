@@ -20,7 +20,7 @@ body {
     .flex-item img {
         width: auto; /* Set image width to fill its container */
         height: auto; /* Maintain aspect ratio */
-        max-width: 300px; /* Limit maximum width to 200px */
+        max-width: 250px; /* Limit maximum width to 200px */
         background-color: black;
     }
     #text-0 {
