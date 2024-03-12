@@ -75,8 +75,8 @@ html {
  }
 
  #text-1 {
-    top: 20%; 
-    left: 50%; 
+    top: 200px; 
+    left: 1000px; 
 
  }
 
@@ -86,8 +86,8 @@ html {
     left: 500px;
  }
  #text-2 {
-    top: 20%; 
-    left: 47%; 
+    top: 200px; 
+    left: 1000px; 
 
  }
 
@@ -100,8 +100,8 @@ html {
  }
 
  #text-3 {
-    top: 20%; 
-    left: 37%; 
+    top: 200px; 
+    left: 1000px;  
 
 
  }
@@ -114,8 +114,8 @@ html {
 
  
  #text-4 {
-    top: 25%; 
-    left: 40%; 
+    top: 250px; 
+    left: 1000px;  
 
  }
  #image-5 {
@@ -127,8 +127,8 @@ html {
  
  }
  #text-5 {
-    top: 20%; 
-    left: 40%; 
+    top: 200px; 
+    left: 1000px;  
 
  }
  #image-6 {
@@ -138,8 +138,9 @@ html {
  }
  #text-6 {
     position: fixed;
-    top: 250px;
-    right: 300px;
+    top: 250px; 
+    left: 1000px;  
+
  }
 
 
