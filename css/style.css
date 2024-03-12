@@ -48,7 +48,7 @@ html {
     visibility: hidden;
  }
  .text {
-    position: absolute;
+    position: fixed;
    
     transform: translate(-50%, -50%);
     background-color: antiquewhite;
@@ -59,7 +59,7 @@ html {
 }
 
  #image-0 {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -68,15 +68,15 @@ html {
  }
 
  #image-1 {
-    position: absolute;
+    position: fixed;
     top: 100px;
     right: 400px;
     max-width: 100%;
  }
 
  #text-1 {
-    top: 20%; /* Adjust as needed */
-    left: 50%; /* Adjust as needed */
+    top: 20%; 
+    left: 50%; 
 
  }
 
@@ -86,8 +86,8 @@ html {
     left: 500px;
  }
  #text-2 {
-    top: 20%; /* Adjust as needed */
-    left: 47%; /* Adjust as needed */
+    top: 20%; 
+    left: 47%; 
 
  }
 
@@ -100,8 +100,8 @@ html {
  }
 
  #text-3 {
-    top: 20%; /* Adjust as needed */
-    left: 37%; /* Adjust as needed */
+    top: 20%; 
+    left: 37%; 
 
 
  }
@@ -114,12 +114,12 @@ html {
 
  
  #text-4 {
-    top: 25%; /* Adjust as needed */
-    left: 40%; /* Adjust as needed */
+    top: 25%; 
+    left: 40%; 
 
  }
  #image-5 {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -127,8 +127,8 @@ html {
  
  }
  #text-5 {
-    top: 20%; /* Adjust as needed */
-    left: 40%; /* Adjust as needed */
+    top: 20%; 
+    left: 40%; 
 
  }
  #image-6 {
